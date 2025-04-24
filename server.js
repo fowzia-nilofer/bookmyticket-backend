@@ -28,5 +28,5 @@ app.use('/api/snacks', snackRoutes);
 app.use('/api/seats', seatRoutes);
 
 app.listen(5000, () => {
-    console.log("Server running on http://bookmyticket-backend-cg1z.onrender.com");
+    console.log("Server running on https://bookmyticket-backend-cg1z.onrender.com");
 });
